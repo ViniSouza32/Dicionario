@@ -1,1 +1,1 @@
-Para fazer o arquivo funcionar procure pelo arquivo "Start", se der problema de conexção com o banco de dados é porque não disponibilizei. 👍
+Para fazer o arquivo funcionar procure pelo arquivo "Start" e clicar com o botão direito do mouse e escolher a opção de "rodar o arquivo", se der problema de conexção com o banco de dados é porque não disponibilizei. 👍
